@@ -1,6 +1,5 @@
 .logoNavbar{
     width: 70px;
-
 }
 .estilosNavbar{
     padding-top: 1rem;
@@ -11,6 +10,7 @@
 
 .aNavbar{
     border-radius: 20px;
+    font-size: 1.1rem;
 }
 .aNavbar:hover{
     background-color: rgb(199, 250, 251);
@@ -23,10 +23,15 @@
     height: 600px;
 }
 .sloganMain{
-    margin-bottom: 14rem;
+    margin-bottom: 12rem;
     font-size: 2rem;
     box-shadow: 5px 5px 5px 5px;
     color: rgb(74, 128, 128);
     font-weight: bold;
-    
+}
+.fotoPerfil{
+   border-radius: 350px;
+}
+.perfil1{
+    margin-top: 10rem;
 }
