@@ -1,7 +1,7 @@
 .logoNavbar{
     width: 70px;
 }
-.estilosNavbar{
+.estilosNavbar, footer{
     padding-top: 1rem;
     padding-bottom: 1rem;
     box-shadow: 0px 4px 4px;
